@@ -3,66 +3,27 @@
 :pushpin: Moro em Natal - Rio Grande do Norte<br>
 :computer: Desenvolvedor Full Stack<br>
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdsergiodev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdsergiodev&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
 ## Softwares, linguagens, frameworks e bibliotecas que utilizo:
-<table>
-  <tbody>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
-        <br>
-        <span>HTML5</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/css3.png">
-        <br>
-        <span>CSS3</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
-        <br>
-        <span>JavaScript</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
-        <br>
-        <span>Node.js</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/sass.png">
-        <br>
-        <span>Sass<span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
-        <br>
-        <span>Bootstrap</span>
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/php.png">
-        <br>
-        <span>PHP</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-        <br>
-        <span>Java</span>
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://img.icons8.com/color/48/000000/wordpress.png">
-        <br>
-        <span>Wordpress</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</div>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</div>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%232D9EEA?style=flat-square&labelColor=%23414141&logo=visual-studio-code&logoColor=white)</div>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Informações adicionais:
+## 📫 Você pode me encontrar em:
 
-![dsergiodev github stats](https://github-readme-stats.vercel.app/api?username=dsergiodev&show_icons=true&hide=["issues"])
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/daniel_vm26)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/dsergiodev/)](https://www.linkedin.com/in/daniel-sergio//)
 
-![dsergiodev github visitor-badge](https://visitor-badge.glitch.me/badge?page_id=dsergiodev)
+
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" style="vertical-align: middle;"> Minhas estatísticas do GitHub: 
+[![Linguagens](https://github-readme-stats.vercel.app/api?username=dsergiodev&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/dsergiodev?tab=repositories)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dsergiodev&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/dsergiodev?tab=repositories)
