@@ -1,16 +1,16 @@
-# Olá, eu sou o Daniel 👋
+# Hello, I'm Daniel 👋
 
-- 🌍 Moro em **Natal - Rio Grande do Norte**
-- 💻 Sou um **Desenvolvedor Full Stack**
-- 🎯 Focado em soluções web e desenvolvimento ágil
+- 🌍 I live in Natal - Rio Grande do Norte
+- 💻 I'm a Full Stack Developer
+- 🎯 Focused on web solutions and agile development
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdsergiodev"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdsergiodev&label=Visitantes%20(Hoje/Total)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
-Aqui estão algumas das principais tecnologias, frameworks e ferramentas que utilizo no meu dia a dia:
+Here are some of the main technologies, frameworks, and tools I use daily:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23EFD81D?style=flat-square&labelColor=%23414141&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -26,9 +26,9 @@ Aqui estão algumas das principais tecnologias, frameworks e ferramentas que uti
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to Reach Me
 
-Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
+Feel free to get in touch with me through the following platforms:
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/daniel_vm26)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsergiodev/)
@@ -37,7 +37,7 @@ Sinta-se à vontade para entrar em contato comigo através das seguintes platafo
 ![Snake animation](https://github.com/dsergiodev/dsergiodev/blob/output/github-contribution-grid-snake.svg)
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dsergiodev&show_icons=true&locale=pt-BR&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dsergiodev&layout=compact&locale=pt-BR&theme=dark)
