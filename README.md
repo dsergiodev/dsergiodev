@@ -34,6 +34,8 @@ Sinta-se à vontade para entrar em contato comigo através das seguintes platafo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsergiodev/)
 
 ---
+![Snake animation](https://github.com/dsergiodev/dsergiodev/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## 📊 Minhas Estatísticas no GitHub
 
