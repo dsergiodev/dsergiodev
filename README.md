@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋
 
-- 🌍 I live in Natal - Rio Grande do Norte
+- 🌍 I live in Natal - Rio Grande do Norte - Brazil
 - 💻 I'm a Full Stack Developer
 - 🎯 Focused on web solutions and agile development
 
